@@ -1,0 +1,23 @@
+{
+  "name": "playwright-basics-with-git",
+  "version": "1.0.0",
+  "description": "playwright basics",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevpaperskin/playwright-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yevpaperskin/playwright-basics/issues"
+  },
+  "homepage": "https://github.com/yevpaperskin/playwright-basics#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
